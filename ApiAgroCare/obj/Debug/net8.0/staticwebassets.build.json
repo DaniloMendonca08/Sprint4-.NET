@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4BtYoqgmNDcXlV0Q2rrUKwCCuPYmXDfJhS6xAB2HpZQ=",
+  "Hash": "PPahEaVjKUUSs2jQ+TEitYYAEfmFohyDCj8iwnUI2IE=",
   "Source": "ApiAgroCare",
   "BasePath": "_content/ApiAgroCare",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ApiAgroCare\\wwwroot",
       "Source": "ApiAgroCare",
-      "ContentRoot": "C:\\Users\\Danil\\Source\\Repos\\ApiAgroCare\\ApiAgroCare\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Danil\\source\\repos\\ApiAgroCare\\ApiAgroCare\\wwwroot\\",
       "BasePath": "_content/ApiAgroCare",
       "Pattern": "**"
     }
@@ -20,7 +20,7 @@
       "Identity": "C:\\Users\\Danil\\Source\\Repos\\ApiAgroCare\\ApiAgroCare\\wwwroot\\Custom.css",
       "SourceId": "ApiAgroCare",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Danil\\Source\\Repos\\ApiAgroCare\\ApiAgroCare\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Danil\\source\\repos\\ApiAgroCare\\ApiAgroCare\\wwwroot\\",
       "BasePath": "_content/ApiAgroCare",
       "RelativePath": "Custom.css",
       "AssetKind": "All",
@@ -39,7 +39,7 @@
       "Identity": "C:\\Users\\Danil\\Source\\Repos\\ApiAgroCare\\ApiAgroCare\\wwwroot\\images\\agrocare.jpg",
       "SourceId": "ApiAgroCare",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Danil\\Source\\Repos\\ApiAgroCare\\ApiAgroCare\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Danil\\source\\repos\\ApiAgroCare\\ApiAgroCare\\wwwroot\\",
       "BasePath": "_content/ApiAgroCare",
       "RelativePath": "images/agrocare.jpg",
       "AssetKind": "All",
