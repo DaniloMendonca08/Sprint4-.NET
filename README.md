@@ -1,7 +1,7 @@
 # Azure Devops
 Prof, por favor caso você não consigar acessar nosso projeto, veja se tem algum invite pendente para sua conta, te adicionei no projeto mas não sei se é necessário acessar um invite para poder acessar o projeto e executar a pipeline
 [Link do projeto no Azure Devops](https://dev.azure.com/RM99752/AgrocareTech)
-
+[Link do vídeo no Youtube](https://youtu.be/DQjlvOMp7W4)
 
 
 
